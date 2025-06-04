@@ -1,0 +1,5 @@
+secrets/
+*.csv
+*.json
+*.xlsx
+.ipynb_checkpoints/
